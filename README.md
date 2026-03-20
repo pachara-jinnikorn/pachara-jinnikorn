@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 # Hi there, I'm Pachara (พชร) 👋 🇹🇭
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 I'm a **Software Developer** and IT student at Mae Fah Luang University, passionate about building functional applications that solve real-world problems. Currently, I'm diving deep into **Space Tech** at Thaicom and **AI solutions** at Nova AI.
