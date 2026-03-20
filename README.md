@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There%20I'm%20Pachara&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Hi%20There&fontSize=90)
 # Hi there, I'm Pachara (พชร) 👋 🇹🇭
 
 I'm a **Software Developer** and IT student at Mae Fah Luang University, passionate about building functional applications that solve real-world problems. Currently, I'm diving deep into **Space Tech** at Thaicom and **AI solutions** at Nova AI.
