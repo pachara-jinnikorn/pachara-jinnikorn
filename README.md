@@ -17,8 +17,8 @@ I'm a **Software Developer** and IT student at Mae Fah Luang University, passion
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ### 📊 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pachara&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachara&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pachara-jinnikorn&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachara-jinnikorn&layout=compact&theme=tokyonight)
 
 ### 🏆 Achievements & Education
 - 🎓 **B.Eng. Software Engineering**, MFU (GPAX: 3.47)
