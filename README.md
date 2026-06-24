@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=200&section=header&text=Pachara%20Chinnikorn&fontSize=70&fontAlignY=35&animation=twinkling&theme=dark)
 # Hi there, I'm Pachara (พชร) 👋 🇹🇭
 
-I'm a **Software Developer** and IT student at Mae Fah Luang University, passionate about building functional applications that solve real-world problems. Currently, I'm diving deep into **Space Tech** at Thaicom and **AI solutions** at Nova AI.
+I'm a **Software Developer** and GRADUATED IT student FROM Mae Fah Luang University, passionate about building functional applications that solve real-world problems. Currently, I'm diving deep into **Space Tech** at Thaicom and **AI solutions** at Nova AI.
 
 ### 🚀 What I'm working on
 - 🛰️ **Space Tech & Environment:** Developing platforms like *PM2.5 Spot* and *CarbonWatch* to monitor air quality and mangrove ecosystems using satellite data.
